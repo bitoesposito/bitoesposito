@@ -31,15 +31,3 @@ Attualmente mi occupo di progettazione UI e sviluppo di applicazioni moderne, co
 <img style="border-radius: .25rem" src="https://img.shields.io/badge/MinIO-C72C48?style=for-the-badge&logo=minio&logoColor=white&color=gray" />
 
 </div>
-
----
-
-### 🚀 Featured Projects
-
-| Progetto | Descrizione | Tech Stack |
-| :--- | :--- | :--- |
-| **DuoSync** | PWA per sincronizzare appuntamenti tra gruppi. Timeline visiva, notifiche push e gestione disponibilità ricorrenti. | `Next.js 16` `PostgreSQL` `Drizzle` `PWA` |
-| **WolfDen Manager** | App desktop cross-platform per la gestione turni in sala LAN. Modernizzazione di un gestionale legacy. | `Electron` `TypeScript` `Tailwind` `Radix UI` |
-| **VirtualCard** | Piattaforma full-stack per biglietti da visita digitali con generazione QR code e gestione file. | `Angular` `NestJS` `Docker` `MinIO` |
-
----
