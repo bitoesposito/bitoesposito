@@ -1,7 +1,7 @@
 <h2>Vito Esposito</h2>
 <h5>SVILUPPATORE WEB E VISUAL DESIGNER</h5>
 
-[LinkedIn](https://www.linkedin.com/in/vitoesposito/) | [Sito Web](https://vitoesposito.it) | [Email](mailto:info@vitoesposito.it) | [Scarica CV](https://blog.vitoesposito.it/Vito%20Esposito%20-%20frontend.pdf)
+[LinkedIn](https://www.linkedin.com/in/vitoespo/) | [Sito Web](https://blog.vitoesposito.it) | [Email](mailto:info@vitoesposito.it) | [Scarica CV](https://blog.vitoesposito.it/Vito%20Esposito%20-%20frontend.pdf)
 
 ---
 
