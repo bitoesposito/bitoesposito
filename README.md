@@ -1,18 +1,26 @@
 <h2>Vito Esposito</h2>
-<h5>SVILUPPATORE WEB E VISUAL DESIGNER</h5>
+<h5>UX Engineer · Frontend Developer · Product-Oriented Builder</h5>
 
 [LinkedIn](https://www.linkedin.com/in/vitoespo/) | [Sito Web](https://blog.vitoesposito.it) | [Email](mailto:info@vitoesposito.it) | [Scarica CV](https://blog.vitoesposito.it/Vito%20Esposito%20-%20frontend.pdf)
 
 ---
 
-Il mio percorso è iniziato nel mondo della grafica e del design, evolvendosi verso lo sviluppo web per creare sistemi che non siano solo funzionali, ma anche soddisfacenti da utilizzare.
+UX Engineer orientato al prodotto, con una solida esperienza in **visual design** e **sviluppo web moderno**.  
+Mi occupo di colmare il divario tra **design e codice**, traducendo requisiti complessi in interfacce
+scalabili, manutenibili e realmente centrate sull’utente.
 
-Attualmente mi occupo di progettazione UI e sviluppo di applicazioni moderne, colmando il divario tra **Design** e **Codice**.
+Seguo l’intero ciclo di sviluppo del prodotto: dalla **ricerca UX**, progettazione UI e prototipazione
+in **Figma**, fino all’**architettura frontend** e all’implementazione con framework moderni come
+**Next.js** e **Angular**, spesso all’interno di contesti **Agile** e ambienti **containerizzati**.
 
-- 🔭 Attualmente sto studiando e lavorando su diversi progetti personali.
-- 🌱 Sto approfondendo le mie conoscenze di Sviluppo web, principalmente **frontend**.
-- 🎨 Background accademico in **Graphic Design** e arte applicata per le imprese (110L/110).
-- 💬 Scrivo e documento i miei progressi e idee sul mio [Blog](https://blog.vitoesposito.it).
+Grazie a un background accademico nelle arti applicate e a un approccio fortemente ingegneristico,
+progetto interfacce non solo curate dal punto di vista visivo, ma anche **robuste, accessibili
+ed efficienti** su larga scala.
+
+- 🧩 UX Engineer con mentalità di prodotto  
+- 🎨 Forte base in visual design e sistemi di interfaccia  
+- ⚙️ Frontend developer con visione full-stack  
+- 📝 Scrivo di design, sviluppo e product thinking sul mio [Blog](https://blog.vitoesposito.it)
 
 ---
 
